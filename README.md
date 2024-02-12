@@ -1,1 +1,1 @@
-# LSTM_Model
+ This is a sentiment analysis model using Long Short-Term Memory (LSTM) neural networks. The model is trained on a dataset of tweets collected from Twitter using the hashtag #ChatGPT. The objective is to classify the sentiment of tweets into three categories: positive, negative, and neutral.
